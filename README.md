@@ -1,4 +1,4 @@
-![Карта](https://imgur.com/ydpOSHh)
+![Карта](/mental_card/mental_card.jpg)
 
 # День 16/18 11.06.2024
 
